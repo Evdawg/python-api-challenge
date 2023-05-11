@@ -8,3 +8,7 @@ Sources:
 
 [2] Geoapify methods:
 	edX Boot Camps LLC. Module 6, Activity 5: airports.ipynb
+
+
+[3] Formatting hvplot:
+	https://docs.bokeh.org/en/latest/docs/user_guide/styling/visuals.html#ug-styling-colors
