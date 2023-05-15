@@ -1,4 +1,5 @@
 # python-api-challenge
+Graded: 100/100
 Module 6 Challenge
 
 Sources:
