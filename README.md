@@ -1,6 +1,8 @@
 # python-api-challenge
 Module 6 Challenge
 
+Graded 100/100
+
 Sources:
 
 [1] Linear Regression and r-value modeling:
